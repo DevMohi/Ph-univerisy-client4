@@ -10,6 +10,7 @@ export type TError = {
   status: number;
 };
 
+
 export type TMeta = {
   limit: number;
   page: number;
